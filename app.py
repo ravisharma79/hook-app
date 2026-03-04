@@ -9,8 +9,8 @@ video_hooks = [
     "I tried the secret auto-editing tool everyone is talking about.",
     "Here is the exact script framework that keeps viewers engaged.",
     "You've been writing your video titles all wrong. Here's why.",
-    "THIS IS A SMALL TIP TO BOOST YOUR DEVOPS CARRIER",
-    "EXAMPLE HOOK FOR THE UPDATE"
+    "This a small tip to bosst your carrier in devops",
+    "Another intersting tip to engange viewers"
 ]
 
 @app.route('/')
